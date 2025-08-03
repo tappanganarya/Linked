@@ -42,6 +42,15 @@ https://git-scm.com/downloads
 Sign Up GitHub Account
 https://github.com/
 
+Cara membuat branch baru
+
+1.⁠ ⁠git clone repository
+2.⁠ ⁠git checkout -b namabranch
+contoh : git checkout -b vincent-dev
+3.⁠ ⁠kerjakan dalam branch tsb
+4.⁠ ⁠git add, git commit, git push
+5.⁠ ⁠cek di repository
+
 
 req.params	  Parameter dari URL	/user/5 → req.params.id = 5
 
