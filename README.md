@@ -66,3 +66,15 @@ req.url	      Alamat URL yang diminta	/product/10
 
 req.cookies	  Cookie yang dikirim client (jika ada)	{ sessionId: "abc123" }
 
+
+
+
+Authentication dan Authorization
+
+Json web token
+https://www.jwt.io/
+https://www.npmjs.com/package/jsonwebtoken
+
+Bcrypt
+http://npmjs.com/package/bcrypt
+
